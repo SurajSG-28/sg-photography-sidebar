@@ -6,7 +6,7 @@
 
 .main_box{
     height: 100vh; /* use 'vh' if we want to occupy full window height*/
-    background: url(/Mini-Project/images/camera_photo.jpg);
+    background: url(images/camera_photo.jpg);
 }
 
 .btn_one{
