@@ -9,6 +9,10 @@ This project implements a responsive sidebar for a photography website using onl
 ## Preview
 ![SG Photography Sidebar](Screenshot.jpg)
 
+## Live Demo
+Try out the live version of the Simon Says game [here](https://sg-photography-ssg.vercel.app).
+
+
 ## Features
 - Navigation menu with icons
 - Social media links
